@@ -1,4 +1,4 @@
-#Steam Sales Scraper
+# Steam Sales Scraper
 <p>
 Wanna check out all the deals on Steam at once? 🤨
 Running this python file will generate a .csv file which will contain original and discounted prices for **EVERY** title on Steam! 🤯
@@ -11,4 +11,4 @@ Running this python file will generate a .csv file which will contain original a
 3. Run `python/python3 sss.py`
 4. Open the newly generated '.csv' file
 
-###Enjoy! 🥳
+### Enjoy! 🥳
