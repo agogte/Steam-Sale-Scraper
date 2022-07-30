@@ -2,7 +2,7 @@
 <p>
 Wanna check out all the deals on Steam at once? 🤨
 <br>
-Running this python file will generate a .csv file which will contain original and discounted prices for ** EVERY ** title on Steam! 🤯
+Running this python file will generate a .csv file which will contain original and discounted prices for <b>EVERY</b> title on Steam! 🤯
 </p>
 
 ### How to run this script?
