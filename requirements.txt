@@ -1,4 +1,4 @@
 pandas
 BeautifulSoup4
-DateTime
 requests
+tqdm
